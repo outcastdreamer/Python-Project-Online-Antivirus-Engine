@@ -59,7 +59,7 @@ else:
     time.sleep(4)
     quit()
 
-os.chdir("C:\Users\Saket\Documents\HackFest17")
+#os.chdir("C:\Users\Saket\Documents\HackFest17")
 import requests
 params = {'apikey': '6ac868dd8c2218f9009c4ce051aaaa48d2b192251ff3922387ea153962fe6e00', 'resource': h}
 headers = {

@@ -29,7 +29,7 @@ if flag==-1:
 
 print "CONNECTION ESTABLISHED!!"
 
-print "\n\tChoose what you want to do - \n\t1) Scan a file\n\t2)Scan an URL or website Link"
+print "\n\tChoose what you want to do - \n\t1) Scan a file\n\t2) Scan an URL or website Link"
 choice=input("\n ENTER CHOICE 1 OR 2 - ")
 flag=0
 if choice==1:

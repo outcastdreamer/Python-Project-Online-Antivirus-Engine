@@ -1,7 +1,7 @@
 # Python-Project : Online-Antivirus-Engine
 **Author : Saket Savarn (outcastdreamer)**
 
-[Works in python 2.x and 3.x, refer to specific .py files for each python version] 
+[Works in python 2.x and 3.x, refer to specific .py files for each python version and for **windows only** as of now] 
 
 Using "https://www.virustotal.com/" API's this code lets you pick one file to check for virus that   
 runs the file through almost 50 plus online anti-virus engines.   
